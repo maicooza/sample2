@@ -35,9 +35,6 @@ header p {
 }
 
 
-
-
-
 .traffics h2 {
   font-size: 1.7rem;
   font-weight: normal;
@@ -49,5 +46,4 @@ header p {
 
 .imgsize img{
   width: 100%;
-  padding-bottom: 30px;
 }
