@@ -35,8 +35,7 @@ header p {
 }
 
 
-.traffic {
-padding-bottom: 30px;
+
 
 
 .traffics h2 {
@@ -50,4 +49,5 @@ padding-bottom: 30px;
 
 .imgsize img{
   width: 100%;
+  padding-bottom: 30px;
 }
