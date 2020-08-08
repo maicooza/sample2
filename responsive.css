@@ -1,1 +1,11 @@
+@charset "UTF-8";
+@@media (max-width: 1000px) {
+  .imgsize img {
+    width: 10px;
+  }
+  .traffic p {
+    color: #ffaa00;
+  }
+
+}
 
