@@ -43,3 +43,7 @@ header p {
 .traffic p {
   font-size: 1.3rem;
 }
+
+.imgsize img{
+  width: 100%;
+}
